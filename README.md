@@ -1,6 +1,6 @@
 # ✨ Cauy Weigt
 
-**'Digital Craftsman (Developer)'**
+**`Digital Craftsman (Developer)`**
 
 I'm a self-taught developer on track to become full-stack and through my personal roadmap I will succeed in going further. I look forward to and strive for challenges, cooperation, and other opportunities that can lead to my growth. I plan to work with others across multiple outlets to grow my capabilities as a developer and look forward to what the future will hold!
 
