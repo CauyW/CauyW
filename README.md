@@ -1,4 +1,4 @@
-# ✨ Cauy Weigt
+# 👨‍💻 Cauy Weigt
 
 **`Digital Craftsman (Developer)`**
 
@@ -6,7 +6,7 @@ I'm a self-taught developer on track to become full-stack and through my persona
 
 ---
 
-### Language and Tools
+### 🧰 Language and Tools
 
 <img align="left" alt="Html5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="Css3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -15,22 +15,13 @@ I'm a self-taught developer on track to become full-stack and through my persona
 
 #
 
-### Stats
+### 📊 Stats
 
 ![Cauy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauyW&show_icons=true&theme=gruvbox)
 
 #
-<!--
-**CauyW/CauyW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><h3>:computer: My Journey To Coding</h3></summary>
+  I was originally a naive highschooler in a 3D Arts course who had a tendency to go off topic as I love to delve deeper into the software and see what else I could do. In this case the software was Blender. Initially the course was to help us understand the animation portion of the software, however, through some research and delving in my spare time I discovered the ability to map actions to keybinds. This later toppled into making a small demonstration of a cube that you controlled through WASD inputs and the objective was simply grabbing a "Key" and a door would open. I was found out by my teacher who, rather then being upset, showed as much enthusiasm as I did. They were impressed that I found a "Game Engine" within Blender and they actually introduced me to things like GameMakerStudio2, Unity, and UnrealEngine4. With this encouragement and drive it lead me to wanting to pursue this passion. I myself after I had graduated from Highschool was at a low of confidence and, through some outside opinions. stepped away seeing as "The chances of standing out were slim." some would say. I took a lot of time away from software and finished out a degree in Culinary as it was an "Easier" job force to get into. I still retained some software knowledge, but my confidence and passion had taken a toll from the constant outside opinions and this dwindled my self-esteem and worth. I often seen myself as a "perfectionist" when it came to finishing projects in a way that may seem annoying to some. I am sort of that person who will ask 10-20 questions about how a project is expected to be completed. This is not my way of saying I am not a good listener or I do not retain knowledge well, but rather I hold myself to ensure that the output is as close to the final image you had in mind as I can achieve. The tough thing with the perfection route and my lowered confidence is I had a tendency to not submit projects as I considered they were incomplete and were not to a high enough standard to succeed and I often compared myself to individuals who were in the field for 10+ years longer than I had been which was unreasonable. I recently decided, on March 6th, 2025, that I am returning to the passion which has been retained these last 2 weeks. I have, thus far, learned the languages of: HTML, CSS, and JavaScript. I set goals and milestones for myself that are being accomplished and will continue to do so as I break out of my shell and once again become the social, cooperative coder who enjoyed the creativity and process of building a project from start to finish that I am.
+</details>
