@@ -1,4 +1,5 @@
 # 👨‍💻 Cauy Weigt
+<h4 align="right">United States 🇺🇸</h4>
 
 **`Digital Craftsman (Developer)`**
 
@@ -6,16 +7,32 @@ I'm a self-taught developer on track to become full-stack and through my persona
 
 ---
 
-### 🧰 Language and Tools
+### 🧰 Language and Tools :
 
 <img align="left" alt="Html5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="Css3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <br>
 
 #
 
-### 📊 Stats
+### 🧠 Currently Learning :
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+<br>
+
+#
+
+### 🚀 Future Software to Learn :
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
+<br>
+
+#
+
+### 📊 Stats :
 
 ![Cauy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauyW&show_icons=true&theme=gruvbox)
 
