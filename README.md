@@ -16,14 +16,14 @@ HTML &nbsp;|&nbsp; CSS &nbsp;|&nbsp;
 
 ### 🧠 Currently Learning :
 
-JavaScript &nbsp;|&nbsp; npm &nbsp;|&nbsp;
+JavaScript &nbsp;|&nbsp; npm &nbsp;|&nbsp; Node.Js &nbsp;|&nbsp;
 <br>
 
 #
 
 ### 🚀 Future Software to Learn :
 
-Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; TailwindCSS &nbsp;|&nbsp; React &nbsp;|&nbsp; Node.Js &nbsp;|&nbsp; PostGreSQL &nbsp;|&nbsp;
+Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; TailwindCSS &nbsp;|&nbsp; React &nbsp;|&nbsp; PostGreSQL &nbsp;|&nbsp;
 <br>
 
 #
